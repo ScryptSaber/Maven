@@ -1,1 +1,1 @@
-# Maven
+# Maven projects are here.
