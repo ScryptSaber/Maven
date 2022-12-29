@@ -64,7 +64,6 @@ public class TestCase03 {
                 }
             }
         }
-
         driver.close();
     }
 }
