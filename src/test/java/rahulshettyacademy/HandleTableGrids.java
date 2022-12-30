@@ -30,5 +30,6 @@ public class HandleTableGrids {
         int total = Integer.parseInt(driver.findElement(By.cssSelector(".totalAmount")).getText().split(":")[1].trim());
 
         Assert.assertEquals(sum, total);
+        
     }
 }
