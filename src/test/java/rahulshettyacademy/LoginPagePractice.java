@@ -1,4 +1,4 @@
-package Demo01;
+package rahulshettyacademy;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
