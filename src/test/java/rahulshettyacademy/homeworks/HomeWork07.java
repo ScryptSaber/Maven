@@ -28,5 +28,6 @@ public class HomeWork07 {
         System.out.println(secondRow.get(1).getText());
         System.out.println(secondRow.get(2).getText());
 
+        
     }
 }
