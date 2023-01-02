@@ -60,6 +60,5 @@ public class StreamJava {
 
         List<Integer> values = Arrays.asList(3, 2, 2, 7, 6, 6);
         values.stream().distinct().forEach(s -> System.out.println(s));
-        
     }
 }
