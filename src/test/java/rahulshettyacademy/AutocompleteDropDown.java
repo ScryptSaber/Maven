@@ -25,7 +25,7 @@ public class AutocompleteDropDown {
             if (opt.getText().equalsIgnoreCase("India")) {
                 opt.click();
                 break;
-                
+
             }
         }
     }
