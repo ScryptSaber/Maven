@@ -57,6 +57,7 @@ public class TestCase13 {
         String txt = element.getText();
         Assert.assertEquals(txt, "Home");
         extent.flush();
+        
     }
 
     @Test
