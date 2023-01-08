@@ -18,7 +18,7 @@ public class CalendarHandling {
 
         driver.findElement(By.id("form-field-travel_comp_date")).click();
         JavascriptExecutor js = (JavascriptExecutor) driver;
-        js.executeScript("window.scrollBy(0,550");
+        js.executeScript("window.scrollBy(0,550)");
         js.executeScript("document.querySelector('.tableFixHead').scrollTop=5000");
 
 

@@ -3,8 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/ASUS/Maven/src/main">
         <classes>
-                <class name="rahulshettyacademy.StreamJava"/>
-                <class name="rahulshettyacademy.LoginPagePractice"/>
+                <class name="com.automationexexercise.TestCase13"/>
         </classes>
     </test>
 </suite>
